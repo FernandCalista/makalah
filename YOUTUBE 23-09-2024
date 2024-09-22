@@ -6278,17 +6278,12 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #EXTINF:-1 group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_167.jpg",Lifetime Asia
 https://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE",AFN 1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE",AFN 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=61666330303030303030303030303030:e6f0c3fa2a6adb104a0163a5ef0bdd79
 https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE",AFN 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=61666330303030303030303030303030:e6f0c3fa2a6adb104a0163a5ef0bdd79
-https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
-
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE",Asian Food Network
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE",AFN (Asian Food Network)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WZg8WMGw2qHcw3D2l8yurQ", "kid":"Nn+b9NBoTxCddKnuto0yvg" } ], "type":"temporary" }
