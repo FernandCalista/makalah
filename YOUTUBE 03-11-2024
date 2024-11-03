@@ -6002,8 +6002,8 @@ Error 404...
 
 #EXTM3U
 
-#EXTINF:-1 group-logo="https://i.ibb.co.com/vXXLzYv/youtube-play-red-logo-png-transparent-background-6.png",SUBSCRIBE YT CALISTAIPTV
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/f4fYbd8/CALISTA-LOGO.png" group-title="SUBSCRIBE YT CALISTAIPTV", YOUTUBE CALISTA IPTV
+#EXTINF:-1 group-logo="https://i.ibb.co.com/vXXLzYv/youtube-play-red-logo-png-transparent-background-6.png",[SUBSCRIBE CALISTAIPTV]
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/f4fYbd8/CALISTA-LOGO.png" group-title="[SUBSCRIBE CALISTAIPTV]", YOUTUBE CALISTA IPTV
 https://www.youtube.com/@calistaIPTV
 
 ====================================================== SPORTS =================================================================
