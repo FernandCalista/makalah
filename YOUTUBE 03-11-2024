@@ -9202,9 +9202,9 @@ http://chiva.my.id/sc/arw/play.mpd?id=6686&type=dash
 #EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="CHANNEL | VIDIO",Champions TV 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://chiva.my.id/sc/arw/play.php?id=6786&type=drm
-http://chiva.my.id/sc/arw/play.mpd?id=6786&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
+https://kametv.my.id/pdx/play.mpd?id=6786
 
 #EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="CHANNEL | VIDIO",Champions TV 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
